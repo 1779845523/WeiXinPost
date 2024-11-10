@@ -2,7 +2,7 @@
 # 公众号appId
 app_id = "wx184ccd783d3c2322"
 # 公众号appSecret
-app_secret = "f9a80260d33******************"
+app_secret = "02d6e5778ed275fa5b72d1e213de83d7"
 # 模板消息id
 # 每日消息
 template_id1 = "wX-************************************"
@@ -87,8 +87,8 @@ classes = \
 # 天气： {{weather.DATA}}
 # 最低气温: {{min_temperature.DATA}}
 # 最高气温: {{max_temperature.DATA}}
-# 今天是破壳日的第: {{love_day.DATA}} 天
-# 距离开学还有: {{birthday.DATA}} 天
+# 今天是和思思恋爱的第: {{love_day.DATA}} 天
+# 距离思思的生日还有: {{birthday.DATA}} 天
 # ----------------今日课程----------------
 # 第一讲: {{firstClass.DATA}}
 # 第二讲: {{secondClass.DATA}}
